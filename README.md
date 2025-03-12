@@ -18,7 +18,8 @@ Utilizes historical stock data, including 200-day and 100-day moving averages, t
 Provides actionable insights for investors.
 ## Comprehensive Module Evaluation:
 Ensures robust performance and reliability of the system.
-Includes end-to-end testing and validation of the model.
+Ensures robust performance and reliability of the system.
+
 Implementation Details
 ---
 # 1. Market Prediction
@@ -50,13 +51,14 @@ Computed R2 Score to evaluate the model's performance.
 Sentiment Analysis: Utilized Generative AI to analyze market sentiment from news, social media, and other sources.
 Portfolio Rebalancing: Integrated the sentiment analysis with the LSTM model to dynamically adjust investments.
 Savings: The system helps users save 10-25% of their portfolio value by optimizing investments based on real-time market conditions.
-Results
 
+# Results
 Achieved 95% accuracy in stock market prediction using the LSTM model.
 The Market Mood Indicator successfully optimized portfolio rebalancing, saving users 10-25% of their portfolio value.
 Model evaluation metrics:
 Mean Absolute Error (MAE)
 R2 Score
+
 ---
 # How to Use
 
