@@ -1,26 +1,26 @@
-AI-ML-Powered Stock Prediction & Portfolio Rebalancing
+## AI-ML-Powered Stock Prediction & Portfolio Rebalancing
 
 This project focuses on predicting stock market trends and optimizing portfolio rebalancing using advanced AI-ML techniques. The system leverages an LSTM-based model for stock market prediction and integrates a Market Mood Indicator powered by Generative AI to analyze market sentiment and dynamically adjust investments. With the help of quantitative analysis and market mood indicators, the solution helps users rebalance their portfolios, saving 10-25% of their portfolio value by making data-driven decisions based on real-time market conditions.
 
-Features
+## Features
 
-Quantitative Analysis:
+ # Quantitative Analysis:
 Conducts quantitative analysis of each stock in the portfolio to evaluate performance.
 Uses 100-day, 200-day & 500-day moving averages, Volume, Closing Price, and  Gain/loss over the period to identify long-term trends and inform rebalancing decisions.
-Market Mood Indicator:
+# Market Mood Indicator:
 Powered by Generative AI to analyze market sentiment.
 Helps optimize portfolio rebalancing by identifying market trends.
 Dynamically adjusts investments to save 10-25% of portfolio value.
-Stock Market Prediction using LSTM:
+# Stock Market Prediction using LSTM:
 Achieved 97% accuracy in forecasting market trends.
 Utilizes historical stock data, including 200-day and 100-day moving averages, to train the LSTM model.
 Provides actionable insights for investors.
-Comprehensive Module Evaluation:
+# Comprehensive Module Evaluation:
 Ensures robust performance and reliability of the system.
 Includes end-to-end testing and validation of the model.
 Implementation Details
 
-1. Market Prediction
+## 1. Market Prediction
 
 Data Collection and Preprocessing
 
@@ -44,7 +44,7 @@ Prediction vs Actual: Plotted a graph comparing predicted and actual stock price
 Model Metrics:
 Calculated Mean Absolute Error (MAE) to measure prediction accuracy.
 Computed R2 Score to evaluate the model's performance.
-2. Market Mood Indicator
+## 2. Market Mood Indicator
 
 Sentiment Analysis: Utilized Generative AI to analyze market sentiment from news, social media, and other sources.
 Portfolio Rebalancing: Integrated the sentiment analysis with the LSTM model to dynamically adjust investments.
@@ -58,7 +58,7 @@ Mean Absolute Error (MAE): [Insert Value]
 R2 Score: [Insert Value]
 How to Use
 
-Clone the repository.
+## Clone the repository.
 Install the required dependencies using pip install -r requirements.txt.
 Run the Jupyter notebook or Python script to train and evaluate the model.
 Use the Market Mood Indicator to analyze market sentiment and optimize your portfolio.
@@ -69,7 +69,7 @@ Improve model accuracy by experimenting with other deep learning architectures.
 Develop a user-friendly interface for portfolio management.
 Contributors
 
-Biswajit Behera
+## Biswajit Behera
 
 License
 
