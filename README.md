@@ -1,5 +1,5 @@
 # AI-ML-Powered Stock Prediction & Portfolio Rebalancing:-
-
+Project Link:- https://drive.google.com/file/d/1jBzQQZ4tZJIvBgEs73AutpNqR48VWdNF/view?usp=sharing
 This project focuses on predicting stock market trends and optimizing portfolio rebalancing using advanced AI-ML techniques. The system leverages an LSTM-based model for stock market prediction and integrates a Market Mood Indicator powered by Generative AI to analyze market sentiment and dynamically adjust investments. With the help of quantitative analysis and market mood indicators, the solution helps users rebalance their portfolios, saving 10-25% of their portfolio value by making data-driven decisions based on real-time market conditions.
 
 ---
