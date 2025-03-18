@@ -9,8 +9,9 @@ This project focuses on predicting stock market trends and optimizing portfolio 
 ## 1. Portfolio Rebalancing
 
 Dynamically adjusts investments based on real-time market conditions and predictions.
-Aims to save 10-25% of portfolio value by optimizing asset allocation.
+Aim to save 10-25% of portfolio value by optimizing asset allocation.
 It helps to rebalance the entire portfolio.
+<img width="646" alt="image" src="https://github.com/user-attachments/assets/bbe1a8b8-0ec9-4ecd-89c7-7f8ddf2d7c12" />
 
 ## 2. Risk-to-Return Ratio-based Stock Suggestion
 
@@ -20,17 +21,28 @@ High-Risk Stocks: High potential returns with higher volatility.
 Moderate-Risk Stocks: Balanced returns with moderate volatility.
 Safe Stocks: Stable returns with low volatility.
 Helps users select stocks according to their risk appetite and investment goals.
+![image](https://github.com/user-attachments/assets/1e06e7ee-331e-41bd-b2fb-6528a2c4e253)
 
 ## 3. Quantitative Analysis
 
 Conducts quantitative analysis of each stock in the portfolio to evaluate performance.
 Uses 100-day & 200-day moving averages, Volume, Closing Price, and Gain/Loss over the period to identify long-term trends and inform rebalancing decisions.
+### 3.1) Last Trade Price of Portfolio
+![image](https://github.com/user-attachments/assets/353782fc-19cc-4b36-9510-9ad46daeb208)
+### 3.2) Volume of Portfolio
+![image](https://github.com/user-attachments/assets/74df7e5c-e4c2-4109-909e-d64f3a28b945)
+
+### 3.3) Daily Return of Portfolio
+![image](https://github.com/user-attachments/assets/a6e117b3-71d5-4aae-99c7-6cb55398786b)
+### 3.4) Moving Average of Stock
+![image](https://github.com/user-attachments/assets/05d8a11b-091c-474e-8a7a-d13735d38904)
 
 ## 4. Market Mood Indicator
 
 Powered by Generative AI to analyze market sentiment from news, social media, and other sources.
 Helps optimize portfolio rebalancing by identifying market trends.
 Dynamically adjusts investments to save 10-25% of portfolio value.
+![image](https://github.com/user-attachments/assets/9d926ed9-830d-4a17-a860-51cd872ecb47)
 
 ## 5. Stock Market Prediction using LSTM
 
@@ -81,6 +93,7 @@ Predicts future stock prices using the last 100 columns of the training dataset.
 Evaluation:
 Compares predicted vs. actual stock prices using graphs.
 Calculates Mean Absolute Error (MAE) and R2 Score to evaluate model performance.
+
 
 ## 4. Market Mood Indicator
 
