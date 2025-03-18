@@ -103,8 +103,6 @@ R2 Score: Evaluates model performance.
 
 
 ---
-
+By:-
 Biswajit Behera
-License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
